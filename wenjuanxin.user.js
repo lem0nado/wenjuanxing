@@ -14,11 +14,12 @@
 // 填空 默认为空
 // 排序
 // 图片
-// @author       ZainCheung
+// @author       ZainCheung + wzk
 // @include     https://www.wjx.cn/jq/*.aspx
 // @include     https://www.wjx.cn/m/*.aspx
 // @include     https://www.wjx.cn/hj/*.aspx
 // @include     https://www.wjx.cn/wjx/join/complete.aspx*
+// @include     https://www.wjx.cn/vm/*.aspx
 // @grant        none
 // @namespace http://tampermonkey.net/
 // ==/UserScript==
